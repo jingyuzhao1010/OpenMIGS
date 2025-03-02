@@ -6,7 +6,8 @@ Open-vocabulary scene understanding is critical for robotics, yet existing 3D Ga
 
 # Overview
 The overview of OpenMIGS goes as follows:
+![pipeline_v5](https://github.com/user-attachments/assets/e48c59a4-cf3c-44ef-9d8d-9d6afa62d197)
 
 
 # Code for installation
-The full implementation of LCP-Fusion is coming soon !!!
+The full implementation of OpenMIGS is coming soon !!!
